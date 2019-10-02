@@ -31,6 +31,8 @@ the dataBase contains Algerian weather information for 10 years ( 2009 - 2019 ),
      
   you can find the ```.db``` file and the cleaned ```.csv``` in this repo 
     
+<img src="https://github.com/AbdouTlili/Algerian-Weather-History-2009---2019-/blob/master/sqliteStudio1.PNG?raw=true" height=600>
+  
 
 ## Meteorological parameters encoding :
 
@@ -89,4 +91,4 @@ totally covered by the cloud), and for that we code them as follows:
   
 please don't hesitate to contact us if you have any question or you need any clarifications
 
-email : ha_tlili@esi.dz - ha_saoudi@esi.dz
+email : ha_tlili@esi.dz *or* ha_saoudi@esi.dz

@@ -1,4 +1,4 @@
-**Welcome to the Algerian Weather History (2009-2019) DataSet**
+#Welcome to the Algerian Weather History (2009-2019) DataSet**
 
 this dataSet is a part of our Project [Umbrella (weather prediction)](https://github.com/AbdouTlili/Umbrella-opensouece-weather-prediction-project-)
 
@@ -32,7 +32,7 @@ the dataBase contains Algerian weather information for 10 years ( 2009 - 2019 ),
   you can find the ```.db``` file and the cleaned ```.csv``` in this repo 
     
 
-## Meteorological parameters encode :
+## Meteorological parameters encoding :
 
   * DT : date in the format  YYYY.MM.DD HH:MM <br>
   * T : temperature in Celsius.<br>
